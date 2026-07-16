@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Daniela 👋</h1>
+<h1 align="center">Oie, eu sou a Daniela 👋</h1>
 <h3 align="center">Estagiária em QA </h3>
 
 <p align="center">
@@ -35,12 +35,12 @@
 
 ---
 
-### 📌 Projetos em destaque
-🔹 [**fake-store-api**](https://github.com/danielavescia/fake-store-api) — Automação de testes de API em Java com RestAssured
-🔹 [**reqres-api-automation**](https://github.com/danielavescia/reqres-api-automation) — Automação de API usando ReqRes, RestAssured e TestNG
-🔹 [**api-test-viacep**](https://github.com/danielavescia/api-test-viacep) — Testes automatizados da API pública ViaCEP
-🔹 [**bugbank-e2e-tests**](https://github.com/danielavescia/bugbank-e2e-tests) — Testes E2E com Selenium no app BugBank
-🔹 [**NZWalks**](https://github.com/danielavescia/NZWalks) — API em C# sobre trilhas na Nova Zelândia
+### Projetos em destaque
+- [**fake-store-api**](https://github.com/danielavescia/fake-store-api) — Automação de testes de API em Java com RestAssured
+- [**reqres-api-automation**](https://github.com/danielavescia/reqres-api-automation) — Automação de API usando ReqRes, RestAssured e TestNG
+- [**api-test-viacep**](https://github.com/danielavescia/api-test-viacep) — Testes automatizados da API pública ViaCEP
+- [**bugbank-e2e-tests**](https://github.com/danielavescia/bugbank-e2e-tests) — Testes E2E com Selenium no app BugBank
+- [**NZWalks**](https://github.com/danielavescia/NZWalks) — API em C# sobre trilhas na Nova Zelândia
 
 ---
 
