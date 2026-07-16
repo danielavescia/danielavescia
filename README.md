@@ -2,14 +2,10 @@
 <h3 align="center">Estagiária em QA </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Automatizando+testes+de+API+%F0%9F%9A%80;RestAssured+%2B+TestNG+%2B+Selenium;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI](https://www.linkedin.com/in/daniela-vescia-732144102/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:danivescia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/danielavescia" target="_blank">
@@ -19,15 +15,15 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,idea,vscode,git,github,postman,selenium,junit,maven,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,dotnet,git,postman,selenium,junit,maven,mysql" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielavescia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -65,4 +61,4 @@
   <img src="https://komarev.com/ghpvc/?username=danielavescia&label=Visualizações+do+perfil&color=2E9EF7&style=flat" alt="profile views"/>
 </p>
 
-<p align="center"><i>Obrigada pela visita! ⭐ Deixe uma estrela se curtir algum projeto.</i></p>
+<p align="center"><i>Obrigada pela visita!</i></p>
