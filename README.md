@@ -1,8 +1,14 @@
 <h1 align="center">Oie, eu sou a Daniela 👋</h1>
 <h3 align="center">Estagiária em QA </h3>
 
+---
+
+### Sobre mim
+Atualmente, sou estudante de Sistemas de Informação e gosto de aprender sobre processos de teste, automação e garantia de qualidade. Tenho interesse em explorar boas práticas de testes (funcionais, de regressão, automatizados) e em entender a fundo o funcionamento das aplicações para identificar falhas antes que cheguem ao usuário final.
+Meu foco principal está em QA, atuando com **Java** e **Spring**, além de já ter colocado a mão na massa em automação de testes com **RestAssured**, **Selenium** e **TestNG**.
+
 <p align="center">
-  <a href=https://www.linkedin.com/in/daniela-vescia-732144102/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniela-vescia-732144102/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:danivescia@gmail.com">
