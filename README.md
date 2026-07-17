@@ -18,7 +18,7 @@
 ### Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,git,postman,selenium,testng,junit,maven,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,git,postman,selenium,maven,mysql,postgres" />
 </p>
 
 ---
