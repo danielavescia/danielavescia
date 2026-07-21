@@ -20,8 +20,7 @@ jobs:
           github_user_name: danielavescia
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+            dist/github-contribution-grid-snake.svg?color_snake=7aa2f7&color_dots=#e5e9f0,#a6accd,#7aa2f7,#bb9af7,#2ac3de
       - name: Push output to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
