@@ -4,7 +4,7 @@
 ---
 
 ### Sobre mim
-Atualmente, sou estudante de Sistemas de Informação e gosto de aprender sobre processos de teste, automação e garantia de qualidade. Tenho interesse em explorar boas práticas de testes (funcionais, de regressão, automatizados) e em entender a fundo o funcionamento das aplicações para identificar falhas antes que cheguem ao usuário final.
+Atualmente, sou estudante de Sistemas de Informação e gosto de aprender sobre qualidade de software, processos de teste e automação. Tenho interesse em explorar boas práticas de testes e entender a fundo o funcionamento das aplicações para identificar falhas antes que cheguem ao usuário final.'
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniela-vescia-732144102/" target="_blank">
