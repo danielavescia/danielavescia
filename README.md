@@ -38,6 +38,7 @@ Atualmente, sou estudante de Sistemas de Informação e gosto de aprender sobre 
 ---
 
 ### Projetos em destaque
+- [**sauce-demo**](https://github.com/danielavescia/sauce-demo) - Análise de risco x probabilidade, cenários de testes, automação de testes E2E com Cypress, estratégia de pipelines CI/CD
 - [**fake-store-api**](https://github.com/danielavescia/fake-store-api) — Automação de testes de API em Java com RestAssured
 - [**reqres-api-automation**](https://github.com/danielavescia/reqres-api-automation) — Automação de API usando ReqRes, RestAssured e TestNG
 - [**api-test-viacep**](https://github.com/danielavescia/api-test-viacep) — Testes automatizados da API pública ViaCEP
