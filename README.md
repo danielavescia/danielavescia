@@ -4,7 +4,7 @@
 ---
 
 ### Sobre mim
-Atualmente, sou estudante de Sistemas de Informação e gosto de aprender sobre qualidade de software, processos de teste e automação. Tenho interesse em explorar boas práticas de testes e entender a fundo o funcionamento das aplicações para identificar falhas antes que cheguem ao usuário final.'
+Atualmente, sou estudante de Sistemas de Informação e gosto de aprender sobre qualidade de software, processos de teste e automação. Tenho interesse em explorar boas práticas de testes e entender a fundo o funcionamento das aplicações para identificar falhas antes que cheguem ao usuário final.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniela-vescia-732144102/" target="_blank">
@@ -20,7 +20,7 @@ Atualmente, sou estudante de Sistemas de Informação e gosto de aprender sobre 
 ### Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,git,postman,selenium,maven,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,git,postman,selenium,cypress,maven,mysql,postgres" />
 </p>
 
 ---
